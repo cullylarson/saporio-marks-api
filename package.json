@@ -1,5 +1,6 @@
 {
-  "name": "saporio-server",
+  "name": "saporio-marks-api",
+  "version": "0.0.1",
   "author": "Cully Larson <cully.larson@gmail.com>",
   "scripts": {
     "build": "gulp --production",
