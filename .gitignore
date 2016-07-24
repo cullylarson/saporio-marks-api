@@ -1,0 +1,10 @@
+**/.DS_Store
+.vagrant
+.idea
+.env
+trash
+vendor
+node_modules
+npm-debug.log
+
+build
