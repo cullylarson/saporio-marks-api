@@ -5,7 +5,7 @@ WORKDIR /usr/src/app
 
 COPY package.json /usr/src/app/
 COPY gulpfile.babel.js /usr/src/app/
-COPY tasks/javascript.js /usr/src/app/tasks/
+COPY tasks /usr/src/app/tasks
 COPY .babelrc /usr/src/app/
 COPY .eslintrc.js /usr/src/app/
 COPY src /usr/src/app/src
